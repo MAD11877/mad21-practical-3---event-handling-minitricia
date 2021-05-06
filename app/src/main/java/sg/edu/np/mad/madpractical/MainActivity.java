@@ -1,4 +1,4 @@
-package sg.edu.np.mad_practical2_s10203209;
+package sg.edu.np.mad.madpractical;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,6 +9,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import sg.edu.np.mad.madpractical.R;
 
 public class MainActivity extends AppCompatActivity {
 
